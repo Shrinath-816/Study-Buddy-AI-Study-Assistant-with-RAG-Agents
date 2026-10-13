@@ -1,0 +1,42 @@
+PHOTOSYNTHESIS - Biology Notes
+
+What is photosynthesis?
+Photosynthesis is the process by which green plants, algae and some bacteria make their own food
+using light energy. It mainly happens in the leaves, inside tiny structures called chloroplasts.
+Chloroplasts contain a green pigment called chlorophyll, which absorbs light (mostly red and blue light)
+and reflects green light. That is why plants look green.
+
+The word equation:
+carbon dioxide + water --(light energy, chlorophyll)--> glucose + oxygen
+
+The balanced chemical equation:
+6CO2 + 6H2O --> C6H12O6 + 6O2
+
+Raw materials (inputs):
+- Carbon dioxide enters the leaf from the air through small pores called stomata.
+- Water is absorbed by the roots and carried up to the leaves through the xylem.
+- Light energy comes from the Sun.
+
+Products (outputs):
+- Glucose is the food made by the plant. It is used for energy (in respiration), stored as starch,
+  or turned into cellulose to build cell walls.
+- Oxygen is released into the air through the stomata as a by-product.
+
+The two stages:
+1. Light-dependent reactions happen in the thylakoid membranes of the chloroplast. Light energy splits
+   water molecules (photolysis), releasing oxygen and producing the energy carriers ATP and NADPH.
+2. The light-independent reactions (the Calvin cycle) happen in the stroma. They use ATP and NADPH to
+   turn carbon dioxide into glucose. These reactions do not need light directly.
+
+Limiting factors (things that can slow down photosynthesis):
+- Light intensity
+- Carbon dioxide concentration
+- Temperature (enzymes work best at an optimum temperature, about 25-35 degrees C for many plants)
+
+Why is it important?
+Photosynthesis produces the oxygen that most living things need to breathe, and it is the starting
+point of almost every food chain on Earth. It also removes carbon dioxide from the atmosphere.
+
+Photosynthesis vs respiration:
+Respiration is roughly the reverse of photosynthesis: glucose + oxygen --> carbon dioxide + water + energy.
+Plants carry out respiration all the time, day and night, but photosynthesis only happens when there is light.

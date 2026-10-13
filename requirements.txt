@@ -1,0 +1,26 @@
+# ---------------------------------------------------------------
+# Study Buddy - required packages
+# Install with:  pip install -r requirements.txt
+# ---------------------------------------------------------------
+
+# The main LangChain package (gives us agents, and pulls in langchain-core)
+langchain>=1.0
+
+# langchain-core: the building blocks (messages, prompts, parsers, runnables, vector stores)
+langchain-core>=1.0
+
+# The "integration" package that connects LangChain to Google Gemini
+# (chat model + embedding model)
+langchain-google-genai>=4.0
+
+# Tools for cutting long documents into small chunks
+langchain-text-splitters>=1.0
+
+# Used inside our document loader to read PDF files
+pypdf
+
+# LangSmith: records ("traces") every step of our app so we can inspect and debug it
+langsmith
+
+# Reads our API key from the .env file
+python-dotenv
